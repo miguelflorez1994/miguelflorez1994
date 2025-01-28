@@ -1,14 +1,13 @@
-# 	🇭🇮, 🇮'🇲 🇲🇮🇬🇺🇪🇱 👋
+# 	🇭🇮, 🇲🇮🇬🇺🇪🇱 🇭🇪🇷🇪! 	🚀
 
-I am a **Data Architect** with a strong interest in **Machine Learning and Data Engineering**. My passion lies in uncovering trends and patterns to provide insights into underlying dynamics and enable the development of impactful and effective solutions.
+I'm a **Data Scientist** and **Data Architect** with a mission: turning information into value. With several years of experience in leadership roles designing solutions in the manufacturing sector, I specialize in bridging the gap between data and decision-making. 
 
 # 💫 ᴀʙᴏᴜᴛ ᴍᴇ:
 
-- 🏙 I'm from Cartago, Colombia.
-- 🎓 Besides studying Data Science, I'm a Industrial Engineer specialized in production processes (and a baker 🍰)
-- 🌍 Captivated by cultural exchange, I am fluent in 3 languages (Spanish, English, Italian) and plan to start learning French soon.
-- 🔍 I aim to contribute to innovative, data-driven projects that leverage analytical skills to generate impactful insights and solutions.
-- 📈 Currently working on 
+- 🏙 I'm from Cartago, Colombia. (Spanish native speaker 🗣️)
+- 🎓 Besides studying Data Science, I'm an Industrial Engineer experienced in production processes.
+- 💡	My approach combines analytical rigor, technical creativity, and a results-driven mindset.
+- 🔍 I aim to drive innovation through algorithms, robust pipelines, and visualizations that tell compelling stories.
 
 # 📊 ᴀʙᴏᴜᴛ ᴍʏ ʀᴇᴘᴏꜱ:
 <p align="center">
@@ -88,13 +87,18 @@ I am a **Data Architect** with a strong interest in **Machine Learning and Data 
     
 </p>
 
-<h3 align="center">Otros Recursos para Desarrollo y Documentación</h3>
+<h3 align="center">Other Resources for Development and Documentation</h3>
 <p align="center">
   <a href="#"><img alt="Microsoft Excel" src="https://img.shields.io/badge/MS_Excel-209e63?style=for-the-badge&logo=microsoft-excel&logoColor=white"></a>
   <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"></a>
 </p>
 
 # 🤝 ᴄᴏɴɴᴇᴄᴛ ᴡɪᴛʜ ᴍᴇ 🤝
+
+If you're looking for a professional who combines technical depth, strategic vision, and a passion for data, let's talk! I am open to: <br>
+🔹 Leadership opportunities in data projects. <br>
+🔹 Innovative collaborations in AI/ML. <br>
+🔹 Talks on trends in Data Science. <br>
 
 <div align="center">
  <a href="https://www.linkedin.com/in/miguel-fl%C3%B3rez-betancourt-251508121/" target="_blank">
